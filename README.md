@@ -1,2 +1,2 @@
-# DMHR---Assignment-Submission
-DMHR - Assignment Submission March 2018
+# Data Methods for Health Research---Assignment-Submission
+Data Methods for Health Research - Assignment Submission March 2018
