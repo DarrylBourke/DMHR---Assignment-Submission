@@ -18,6 +18,8 @@ https://www.google.org/flutrends/about/data/flu/de/data.txt
 https://www.google.org/flutrends/about/data/flu/br/data.txt
 
 
+
+
 Python 2.7 and jupyter notebooks were used alongside the following python libraries; 
 
 numpy, pandas, scikit-learn, matplotlib, seaborn.
